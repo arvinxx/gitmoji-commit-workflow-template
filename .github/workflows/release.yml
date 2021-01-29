@@ -6,6 +6,7 @@ on:
       - next
       - beta
       - alpha
+      - pre/rc
       - 1.x
       - 2.x
 
