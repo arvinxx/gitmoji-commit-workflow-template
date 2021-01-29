@@ -1,5 +1,22 @@
 # 更新日志
 
+# [1.1.0](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v1.0.0...v1.1.0) (2021-01-29)
+
+
+### ✨ Features | 新特性
+
+* **杂项**: 实现模块功能 ([8e78e87](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/8e78e87))
+
+
+### 🎫 Chores 杂项
+
+* **杂项**: 调整日志配置项 ([a3b767e](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/a3b767e))
+
+
+### 📝 Documentation | 文档
+
+* **杂项**: 添加说明文档 ([96362be](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/96362be))
+
 # 1.0.0 (2021-01-29)
 
 
