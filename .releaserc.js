@@ -1,6 +1,9 @@
 module.exports = {
-  branch: [
-    { name: "pre/rc", channel: "pre/rc", prerelease: "rc" }, // `prerelease` is built with the template `${name.replace(/^pre\\//g, "")}`
+  branches: [
+    "master",
+    { name: "next", channel: "next", prerelease: "rc" },
+    { name: "beta", prerelease: true },
+    { name: "alpha", prerelease: true },
   ],
   plugins: [
     //负责解析 commit
