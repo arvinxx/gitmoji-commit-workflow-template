@@ -1,6 +1,6 @@
 {
   "name": "@gitmoji/template",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "description": "a template for gitmoji commit workflow",
   "main": "lib/index.js",
   "scripts": {
