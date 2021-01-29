@@ -47,8 +47,6 @@ next 分支会抢占主分支版本号, 因此默认情况下需要带上 `.rc` 
 
 当合并到 master 分支时, 将会自动发布当前版本号的正式版本
 
-### pre/rc 分支
-
 ## License
 
 [MIT](./LICENSE) ® Arvin Xu
