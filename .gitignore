@@ -29,7 +29,6 @@ yarn-error.log*
 **/dist
 /.vscode
 /es
-/lib
 
 # misc
 storybook-static
