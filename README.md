@@ -39,7 +39,7 @@ beta 版本一般为外部预览版 即常说的公测版本
 
 版本号: [![NPM version][next-version-image]][version-url]
 
-next 分支会抢占主分支版本号, 因此无特殊原因不建议使用
+next 分支会抢占主分支版本号, 因此默认情况下需要带上 `.rc` 后缀
 
 
 ### pre/rc 分支
