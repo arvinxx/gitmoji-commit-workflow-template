@@ -38,4 +38,5 @@
 
 [version-image]: http://img.shields.io/npm/v/@gitmoji/template.svg?color=deepgreen&label=latest
 [next-version-image]: https://img.shields.io/npm/v/@gitmoji/template/next?color=deepgreen&label=next
+[beta-version-image]: https://img.shields.io/npm/v/@gitmoji/template/beta?color=deepgreen&label=next
 [version-url]: http://npmjs.org/package/@gitmoji/template
