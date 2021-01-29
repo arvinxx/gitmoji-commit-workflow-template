@@ -1,5 +1,17 @@
 # 更新日志
 
+## [1.1.3-alpha.1](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v1.1.2...v1.1.3-alpha.1) (2021-01-29)
+
+
+### 🐛 Bug Fixes | 修复
+
+* **杂项**: 修正 alpha 版本 ([3b757f5](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/3b757f5))
+
+
+### 📝 Documentation | 文档
+
+* **杂项**: 更新说明文档 ([b08a5b7](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/b08a5b7))
+
 ## [1.1.2](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v1.1.1...v1.1.2) (2021-01-29)
 
 
