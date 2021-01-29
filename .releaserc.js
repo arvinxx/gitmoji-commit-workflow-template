@@ -1,5 +1,10 @@
 module.exports = {
   branches: [
+    "master",
+    "next",
+    "next-major",
+    { name: "beta", prerelease: true },
+    { name: "alpha", prerelease: true },
     { name: "pre/rc", channel: "pre/rc", prerelease: "rc" }, // `prerelease` is built with the template `${name.replace(/^pre\\//g, "")}`
   ],
   plugins: [
