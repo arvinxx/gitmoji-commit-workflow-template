@@ -22,6 +22,7 @@
 ### 主分支
 
 版本号: [![NPM version][version-image]][version-url]
+
 master 分支作为随时可发布分支,对应 npm 包相应的版本
 
 ### alpha 分支
