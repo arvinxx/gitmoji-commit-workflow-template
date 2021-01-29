@@ -1,6 +1,6 @@
 module.exports = {
   branch: [
-    { name: "next", channel: "next", prerelease: "rc" }, // Only after the `next` is created in the repo
+    { name: "pre/rc", channel: "pre/rc", prerelease: "rc" }, // `prerelease` is built with the template `${name.replace(/^pre\\//g, "")}`
   ],
   plugins: [
     //负责解析 commit
