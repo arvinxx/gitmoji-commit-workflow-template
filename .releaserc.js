@@ -1,5 +1,5 @@
 module.exports = {
-  branch: [
+  branches: [
     { name: "pre/rc", channel: "pre/rc", prerelease: "rc" }, // `prerelease` is built with the template `${name.replace(/^pre\\//g, "")}`
   ],
   plugins: [
