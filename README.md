@@ -42,7 +42,9 @@ beta 版本一般为外部预览版 即常说的公测版本
 版本号: [![NPM version][next-version-image]][version-url]
 
 next 分支会抢占主分支版本号, 因此默认情况下需要带上 `.rc` 后缀
+
 在 next 分支下任何 `feat` 和 `fix` 都只会增加 `.rc.x` 位数,不会增加前面位次的版本号
+
 当合并到 master 分支时, 将会自动发布当前版本号的正式版本
 
 ### pre/rc 分支
