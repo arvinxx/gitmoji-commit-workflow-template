@@ -4,6 +4,10 @@ on:
     branches:
       - master
       - next
+      - beta
+      - alpha
+      - 1.x
+      - 2.x
 
 jobs:
   release:
