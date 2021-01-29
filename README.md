@@ -27,15 +27,22 @@
 
 版本号: [![NPM version][alpha-version-image]][version-url]
 
-### beta分支
+alpha 版本一般为内部预览版
+
+### beta 分支
 
 版本号: [![NPM version][beta-version-image]][version-url]
+
+beta 版本一般为外部预览版 即常说的公测版本
 
 ### next 分支
 
 版本号: [![NPM version][next-version-image]][version-url]
 
-• break change feature 发布会增加主版本号（如1.1.1 –> 2.0.0，官方建议这种不兼容的升级应该推送到 next 分支开发，之后合并到 master）
+next 分支会抢占主分支版本号, 因此无特殊原因不建议使用
+
+
+### pre/rc 分支
 
 ## License
 

@@ -1,6 +1,9 @@
 module.exports = {
-  branch: [
-    { name: "next", channel: "next", prerelease: "rc" }, // Only after the `next` is created in the repo
+  branches: [
+    "master",
+    { name: "next", channel: "next", prerelease: "rc" },
+    { name: "beta", prerelease: true },
+    { name: "alpha", prerelease: true },
   ],
   plugins: [
     //负责解析 commit
