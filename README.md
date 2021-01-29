@@ -17,6 +17,21 @@
 [release-ci]: https://github.com/arvinxx/gitmoji-commit-workflow-template/workflows/Release%20CI/badge.svg
 [deploy-ci-url]: https://github.com/arvinxx/gitmoji-commit-workflow-template/actions?query=workflow%3A%22Release+CI%22
 
+## 模板说明
+
+### 主分支
+
+版本号: [![NPM version][version-image]][version-url]
+
+### next 分支
+
+版本号: [![NPM version][next-version-image]][version-url]
+
+
 ## License
 
 [MIT](./LICENSE) ® Arvin Xu
+
+[version-image]: http://img.shields.io/npm/v/@gitmoji/template.svg?color=deepgreen&label=latest
+[next-version-image]: https://img.shields.io/npm/v/@gitmoji/template/next?color=deepgreen&label=next
+[version-url]: http://npmjs.org/package/@gitmoji/template
