@@ -23,6 +23,10 @@
 
 版本号: [![NPM version][version-image]][version-url]
 
+### beta分支
+
+版本号: [![NPM version][beta-version-image]][version-url]
+
 ### next 分支
 
 版本号: [![NPM version][next-version-image]][version-url]

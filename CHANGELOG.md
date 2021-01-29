@@ -1,11 +1,18 @@
 # 更新日志
 
-# [1.2.0](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v1.1.0...v1.2.0) (2021-01-29)
+## [1.1.2](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v1.1.1...v1.1.2) (2021-01-29)
 
 
-### ✨ Features | 新特性
+### 🐛 Bug Fixes | 修复
 
-* **杂项**: 实现 next 版本模块功能 ([6caf93f](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/6caf93f))
+* **杂项**: 允许几类主要分支部署 ([f569b20](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/f569b20))
+
+
+### 📝 Documentation | 文档
+
+* **杂项**: 更新说明文档 ([0910081](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/0910081))
+
+## [1.1.1](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v1.1.0...v1.1.1) (2021-01-29)
 
 
 ### 🐛 Bug Fixes | 修复
