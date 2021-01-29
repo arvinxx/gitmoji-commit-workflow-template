@@ -23,6 +23,10 @@
 
 版本号: [![NPM version][version-image]][version-url]
 
+### alpha 分支
+
+版本号: [![NPM version][alpha-version-image]][version-url]
+
 ### beta分支
 
 版本号: [![NPM version][beta-version-image]][version-url]
@@ -31,6 +35,7 @@
 
 版本号: [![NPM version][next-version-image]][version-url]
 
+• break change feature 发布会增加主版本号（如1.1.1 –> 2.0.0，官方建议这种不兼容的升级应该推送到 next 分支开发，之后合并到 master）
 
 ## License
 
@@ -38,5 +43,6 @@
 
 [version-image]: http://img.shields.io/npm/v/@gitmoji/template.svg?color=deepgreen&label=latest
 [next-version-image]: https://img.shields.io/npm/v/@gitmoji/template/next?color=deepgreen&label=next
-[beta-version-image]: https://img.shields.io/npm/v/@gitmoji/template/beta?color=deepgreen&label=next
+[alpha-version-image]: https://img.shields.io/npm/v/@gitmoji/template/alpha?color=deepgreen&label=alpha
+[beta-version-image]: https://img.shields.io/npm/v/@gitmoji/template/beta?color=deepgreen&label=beta
 [version-url]: http://npmjs.org/package/@gitmoji/template
