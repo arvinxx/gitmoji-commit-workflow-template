@@ -1,5 +1,23 @@
 # 更新日志
 
+## [4.1.2](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.1...v4.1.2) (2021-02-02)
+
+
+### 🐛 Bug Fixes
+
+* **杂项**: update deps ([dc71ee1](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/dc71ee1))
+
+
+### 👷 Build System
+
+* **deps-dev**: bump conventional-changelog-gitmoji-config ([2909247](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/2909247))
+
+
+### 📝 Documentation
+
+* **杂项**: 更新说明文档 ([acd1ef0](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/acd1ef0))
+* **杂项**: 更新说明文档 ([2d0cf44](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/2d0cf44))
+
 ## [4.1.1](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.0...v4.1.1) (2021-01-29)
 
 
