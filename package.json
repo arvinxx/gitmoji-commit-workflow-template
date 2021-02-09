@@ -26,7 +26,7 @@
     "commitlint": "^11.0.0",
     "commitlint-config-gitmoji": "^2.2.1",
     "conventional-changelog-gitmoji-config": "^1.4.0",
-    "husky": "^4.3.8",
+    "husky": "^5.0.9",
     "semantic-release": "^17.3.7"
   },
   "homepage": "https://github.com/arvinxx/gitmoji-commit-workflow-template#readme"
