@@ -1,3 +1,16 @@
+## [4.1.3](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.2...v4.1.3) (2021-02-20)
+
+
+### 🐛 Bug Fixes
+
+* **杂项**: 测试调整配置 ([9c86b94](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/9c86b94))
+
+
+### 👷 Build System
+
+* **deps-dev**: bump semantic-release from 17.3.7 to 17.3.8 ([c2e9b6d](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/c2e9b6d))
+* **deps-dev**: bump semantic-release from 17.3.8 to 17.3.9 ([a0ab5ac](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/a0ab5ac))
+
 # 更新日志
 
 ## [4.1.2](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.1...v4.1.2) (2021-02-02)
