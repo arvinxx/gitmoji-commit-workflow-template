@@ -22,7 +22,13 @@ module.exports = {
         config: "conventional-changelog-gitmoji-config",
       },
     ],
-    "@semantic-release/changelog", //此处会调用上一个插件生成的新增日志，然后合并到原有日志中
+    [
+      "@semantic-release/changelog", //此处会调用上一个插件生成的新增日志，然后合并到原有日志中
+      {
+        changelogFile: "CHANGELOG.md",
+        changelogTitle: "# Changelog",
+      },
+    ],
     "@semantic-release/npm", //如果是npm包会自动更新版本号并发布
     "@semantic-release/github", // 推送代码回到GitHub
     [
