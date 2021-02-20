@@ -26,7 +26,6 @@ module.exports = {
       "@semantic-release/changelog", //此处会调用上一个插件生成的新增日志，然后合并到原有日志中
       {
         changelogFile: "CHANGELOG.md",
-        changelogTitle: "# 更新日志",
       },
     ],
     "@semantic-release/npm", //如果是npm包会自动更新版本号并发布
@@ -41,7 +40,7 @@ module.exports = {
           "package.json",
         ],
         message:
-          ":bookmark: chore(release): v${nextRelease.version} [skip ci]\n\nhttps://github.com/arvinxx/gitmoji-commit-workflow-template/releases/tag/${nextRelease.gitTag}",
+          ":bookmark: chore(release): ${nextRelease.gitTag} [skip ci] \n\n${nextRelease.notes}",
       },
     ],
   ],
