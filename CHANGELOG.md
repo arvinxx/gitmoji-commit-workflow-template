@@ -1,3 +1,17 @@
+# Changelog
+
+## [4.1.5](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.4...v4.1.5) (2021-02-20)
+
+
+### 🐛 Bug Fixes
+
+* **杂项**: 调整配置 ([de065c9](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/de065c9))
+
+
+### 📝 Documentation
+
+* **杂项**: 修正更新日志 ([77e24a5](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/77e24a5))
+
 # 更新日志
 
 ## [4.1.4](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.3...v4.1.4) (2021-02-20)
