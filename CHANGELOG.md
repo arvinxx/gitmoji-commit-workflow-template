@@ -1,5 +1,12 @@
 # Changelog
 
+# [4.2.0](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.5...v4.2.0) (2021-02-20)
+
+
+### ✨ Features
+
+* **杂项**: release 配置项收敛为 gitmoji module ([cd08569](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/cd08569))
+
 ## [4.1.5](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.4...v4.1.5) (2021-02-20)
 
 
