@@ -1,3 +1,10 @@
+## [4.1.4](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.3...v4.1.4) (2021-02-20)
+
+
+### 🐛 Bug Fixes
+
+* **杂项**: 调整配置 ([20558b8](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/20558b8))
+
 ## [4.1.3](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.2...v4.1.3) (2021-02-20)
 
 
