@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.1](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.2.0...v4.2.1) (2021-02-22)
+
+
+### 👷 Build System
+
+* **deps-dev**: bump semantic-release-config-gitmoji-module ([743862c](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/743862c))
+
 # [4.2.0](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.1.5...v4.2.0) (2021-02-20)
 
 
