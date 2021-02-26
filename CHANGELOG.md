@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.3](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.2.2...v4.2.3) (2021-02-26)
+
+
+### 👷 Build System
+
+* **deps-dev**: bump commitlint-config-gitmoji from 2.2.1 to 2.2.2 ([09b72d5](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/09b72d5))
+
 ## [4.2.2](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.2.1...v4.2.2) (2021-02-26)
 
 
