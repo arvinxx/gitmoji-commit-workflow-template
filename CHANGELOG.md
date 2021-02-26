@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.2](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.2.1...v4.2.2) (2021-02-26)
+
+
+### 👷 Build System
+
+* **deps-dev**: bump semantic-release from 17.3.9 to 17.4.0 ([eb17357](https://github.com/arvinxx/gitmoji-commit-workflow-template/commit/eb17357))
+
 ## [4.2.1](https://github.com/arvinxx/gitmoji-commit-workflow-template/compare/v4.2.0...v4.2.1) (2021-02-22)
 
 
