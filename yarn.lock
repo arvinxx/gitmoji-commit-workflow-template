@@ -169,6 +169,11 @@
   resolved "https://registry.npm.taobao.org/@gitmoji/parser-opts/download/@gitmoji/parser-opts-1.2.5.tgz#d7adac21a76ed929a497ab8654686d1be244bfa3"
   integrity sha1-162sIadu2Smkl6uGVGhtG+JEv6M=
 
+"@gitmoji/parser-opts@1.2.6":
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/@gitmoji/parser-opts/-/parser-opts-1.2.6.tgz#1f7d253d9f52e91e9e5f65216b190e481b505277"
+  integrity sha512-90e0sDneqK5EdtUqEn/e6p8hRmQ/+VDcHOm+mS/9d+4QDx1BQ8tULKhBc+cmZqRihTluZWsp2W1zNcS2VqRm8A==
+
 "@iarna/cli@^1.2.0":
   version "1.2.0"
   resolved "https://registry.npm.taobao.org/@iarna/cli/download/@iarna/cli-1.2.0.tgz#0f7af5e851afe895104583c4ca07377a8094d641"
@@ -965,12 +970,12 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
     delayed-stream "~1.0.0"
 
 commitlint-config-gitmoji@^2.2.1:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/commitlint-config-gitmoji/-/commitlint-config-gitmoji-2.2.1.tgz#f42e247953f99cd328417956eef20c72f9926910"
-  integrity sha512-VSIC5TJdMqDcYsrswil5max//85170RZcqRRG0pUsVmAB92ntge6XVprgJMi70poPeZHpaDQBraEGaNNnJvsDw==
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/commitlint-config-gitmoji/-/commitlint-config-gitmoji-2.2.2.tgz#b6caae7b7631e1cbda724f8f2d552f08ab3c48f1"
+  integrity sha512-dIodTBQHMQQ0sij+6etqtjJzIxIfddPQE2fsOFC6DcNWdRod3C0iccThbpgmT37q5XrmeZTfnyeBM+rw7Bvvrg==
   dependencies:
     "@gitmoji/commit-types" "1.1.5"
-    "@gitmoji/parser-opts" "1.2.5"
+    "@gitmoji/parser-opts" "1.2.6"
     commitlint-plugin-gitmoji "2.0.6"
 
 commitlint-plugin-gitmoji@2.0.6:
