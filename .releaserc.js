@@ -5,5 +5,5 @@ module.exports = {
     { name: "beta", prerelease: true },
     { name: "alpha", prerelease: true },
   ],
-  extends: ["semantic-release-config-gitmoji-module"],
+  extends: ["semantic-release-config-gitmoji"],
 };
