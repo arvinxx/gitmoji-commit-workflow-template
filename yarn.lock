@@ -153,6 +153,13 @@
   dependencies:
     chalk "^4.0.0"
 
+"@commitlint/types@^17":
+  version "17.0.0"
+  resolved "https://registry.yarnpkg.com/@commitlint/types/-/types-17.0.0.tgz#3b4604c1a0f06c340ce976e6c6903d4f56e3e690"
+  integrity sha512-hBAw6U+SkAT5h47zDMeOu3HSiD0SODw4Aq7rRNh1ceUmL7GyLKYhPbUvlRWqZ65XjBLPHZhFyQlRaPNz8qvUyQ==
+  dependencies:
+    chalk "^4.1.0"
+
 "@gar/promisify@^1.0.1":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.2.tgz#30aa825f11d438671d585bd44e7fd564535fc210"
@@ -162,11 +169,6 @@
   version "1.1.5"
   resolved "https://registry.npm.taobao.org/@gitmoji/commit-types/download/@gitmoji/commit-types-1.1.5.tgz#8ca89aeea4e253a3818ac63206b4eb4f2352c4ff"
   integrity sha1-jKia7qTiU6OBisYyBrTrTyNSxP8=
-
-"@gitmoji/parser-opts@1.3.0":
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/@gitmoji/parser-opts/-/parser-opts-1.3.0.tgz#7118a512342afd89c895cb2fd95454fa73f377bb"
-  integrity sha512-NqfoW12eXMdDJz3g3NHnopEgDoqdY1YshO6XxIVPOqotGTDcjD1sL28AVKskbYveGmHBPdHieRRv6M9Iq7dt4w==
 
 "@gitmoji/parser-opts@1.3.1":
   version "1.3.1"
@@ -1066,21 +1068,23 @@ combined-stream@^1.0.6, combined-stream@~1.0.6:
     delayed-stream "~1.0.0"
 
 commitlint-config-gitmoji@^2.2.1:
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/commitlint-config-gitmoji/-/commitlint-config-gitmoji-2.2.6.tgz#0b930ee0e8d94e20821cf3c93d9d8b90e91c4b23"
-  integrity sha512-fQDr1+c93Z4YWvHe439DAgA68dFtyPUuFeb/aVOYtnhQWNphL2aC0vAxw7TE7KcbzWaAJl4AF9zPPQPu+kmSpA==
+  version "2.2.8"
+  resolved "https://registry.yarnpkg.com/commitlint-config-gitmoji/-/commitlint-config-gitmoji-2.2.8.tgz#37d016dfd6313f24eb9401e0155097eeea45164a"
+  integrity sha512-F8Ypdv59GoNBPY5yknYEnV81+sVqEDUXqXDIb8rDatd+TxcMuSd30P2ilKA0G/OET9eD02krwrXp9v/ggp1Kgg==
   dependencies:
+    "@commitlint/types" "^17"
     "@gitmoji/commit-types" "1.1.5"
     "@gitmoji/parser-opts" "1.3.1"
-    commitlint-plugin-gitmoji "2.2.0"
+    commitlint-plugin-gitmoji "2.2.2"
 
-commitlint-plugin-gitmoji@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/commitlint-plugin-gitmoji/-/commitlint-plugin-gitmoji-2.2.0.tgz#e8fd35f1fd9f5790d7382d2d00bc90452ff24e56"
-  integrity sha512-njFLibrctUTeYjJYqiG9EOnCUcX/OvHCf96bArYBIbH7IEV6fylslVTt6pQcCvaMfOPUBj3f+a3g1eYchggZVw==
+commitlint-plugin-gitmoji@2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/commitlint-plugin-gitmoji/-/commitlint-plugin-gitmoji-2.2.2.tgz#ec95c260d7fe674755be0bf2e06beffd6cdf96db"
+  integrity sha512-/rPWBYtnhoFu6X+lZHs+nRSn4kO4gVz6XjS+bw3n16hCYPd03EkbnZdAXYvWFfuUqUe2Fs4agNxUZtZnk56HsQ==
   dependencies:
-    dotenv "^8.2.0"
+    "@commitlint/types" "^17"
     emoji-name-map "^1.2.9"
+    gitmojis "^3.11.1"
 
 commitlint@^12.0.1:
   version "12.1.4"
@@ -1327,11 +1331,6 @@ dot-prop@^5.1.0:
   integrity sha1-kMzOcIzZzYLMTcjD3dmr3VWyDog=
   dependencies:
     is-obj "^2.0.0"
-
-dotenv@^8.2.0:
-  version "8.2.0"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
-  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
 
 duplexer2@~0.1.0:
   version "0.1.4"
@@ -1684,6 +1683,11 @@ git-raw-commits@^2.0.0:
     meow "^8.0.0"
     split2 "^3.0.0"
     through2 "^4.0.0"
+
+gitmojis@^3.11.1:
+  version "3.13.1"
+  resolved "https://registry.yarnpkg.com/gitmojis/-/gitmojis-3.13.1.tgz#0bc1111611b3adc726f7ba8a4b1c25fbc457a449"
+  integrity sha512-HA9iV+NBT8UR3T8LlUgPtvMKcBJa7RKenljoJhScWT/0gaggeQtyqXbPzLTv3u6BptTNOdadFDV5PiXMUDn2+g==
 
 glob-parent@^5.1.0:
   version "5.1.1"
